@@ -1,0 +1,2 @@
+22/06/2022 5:51:04 p. m.: Probando el logger
+22/06/2022 5:51:04 p. m.: Prueba de excepcion

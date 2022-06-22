@@ -1,0 +1,7 @@
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_4\bin\Debug\ProgramacionOO_4.exe.config
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_4\bin\Debug\ProgramacionOO_4.exe
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_4\bin\Debug\ProgramacionOO_4.pdb
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_4\obj\Debug\ProgramacionOO_4.csproj.AssemblyReference.cache
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_4\obj\Debug\ProgramacionOO_4.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_4\obj\Debug\ProgramacionOO_4.exe
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_4\obj\Debug\ProgramacionOO_4.pdb
