@@ -1,0 +1,14 @@
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\bin\Debug\netcoreapp3.1\ProgramacionOO_8.exe
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\bin\Debug\netcoreapp3.1\ProgramacionOO_8.deps.json
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\bin\Debug\netcoreapp3.1\ProgramacionOO_8.runtimeconfig.json
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\bin\Debug\netcoreapp3.1\ProgramacionOO_8.runtimeconfig.dev.json
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\bin\Debug\netcoreapp3.1\ProgramacionOO_8.dll
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\bin\Debug\netcoreapp3.1\ProgramacionOO_8.pdb
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\obj\Debug\netcoreapp3.1\ProgramacionOO_8.csproj.AssemblyReference.cache
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\obj\Debug\netcoreapp3.1\ProgramacionOO_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\obj\Debug\netcoreapp3.1\ProgramacionOO_8.AssemblyInfoInputs.cache
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\obj\Debug\netcoreapp3.1\ProgramacionOO_8.AssemblyInfo.cs
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\obj\Debug\netcoreapp3.1\ProgramacionOO_8.csproj.CoreCompileInputs.cache
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\obj\Debug\netcoreapp3.1\ProgramacionOO_8.dll
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\obj\Debug\netcoreapp3.1\ProgramacionOO_8.pdb
+C:\Users\Semillero\Desktop\Projects\ProgramacionOO_8\obj\Debug\netcoreapp3.1\ProgramacionOO_8.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZbL3puIZ4bml5L6VLnT2D3bsUYCPUIOV+90DLSGdz2hBDK/1SIriu83wOTrH6+KMRX9yQxIRS7aIYH4MpccCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Semillero\\Desktop\\Projects\\PrincipiosSolid\\PrincipiosSolid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Semillero\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
